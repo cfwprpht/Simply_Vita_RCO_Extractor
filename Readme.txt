@@ -1,5 +1,9 @@
 
-* Simply Vita RCO Extractor* v1.00
+* Simply Vita RCO Extractor* v1.20
+
+UPDATE:
+        Now also works on a Data Table of a PS4 RCO.
+        
 
 What it is?
 
@@ -16,7 +20,7 @@ Additional will the Tool let you re-build a CXML container.
 
 How to use that SVRE Tool?
 
-simply use shell and enter: 'svre -f <vita_rco>'
+simply use shell and enter: 'svre -f <NextGen_rco>'
 
 That's it for now...
 
